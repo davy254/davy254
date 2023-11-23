@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @davy254
 - 👀 I’m interested in Web Development using Python/Django and JS/React
 - 🌱 I’m currently learning React.js
+- View my Portfolio https://davy254.github.io/
 - - 📫 You can reach me via email davidmunyiri2@gmail.com or whatsapp +254712347274
 
 <!---
