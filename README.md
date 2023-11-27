@@ -11,7 +11,7 @@ I am a Kenyan-based Web Developer with expertise in Python,Django, Javascript, H
 ### [Django Blog]
 This is a blog with a Django backend.This data-driven website has a dynamic setup.This means that the user can create, display, update and search blog articles.The website is fitted for mobile, tablet and desktop (fully responsive)
 
-[!Django Blog]([link-to-project](https://github.com/davy254/django_blog_2))
+[![Django Blog]([link-to-project](https://github.com/davy254/django_blog_2))
 
 ### [Project Name 2]
 [Another project description, highlighting its impact and the problems it solves.]
