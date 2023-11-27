@@ -16,7 +16,7 @@ This is a blog with a Django backend.This data-driven website has a dynamic setu
 ### [Django based Movie Website]
 This is a Django web application that displays a list of latest movies using the TMDb API (The Movie Database). Users can view details of each movie.
 
-[Movie Project]](https://github.com/davy254/movie_project)
+[Movie Project](https://github.com/davy254/movie_project)
 
 ## Skills
 
