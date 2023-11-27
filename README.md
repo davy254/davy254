@@ -34,5 +34,5 @@ I'm always open to collaboration and new opportunities. Connect with me on socia
 
 Thank you for exploring my GitHub! Whether you're here for inspiration, collaboration, or just to say hi, feel free to reach out. Let's create something amazing together!
 
-[![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=your-username.your-username)](https://github.com/your-username/your-username)
+[![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=davy254.davy254)](https://github.com/davy254/davy254)
 
