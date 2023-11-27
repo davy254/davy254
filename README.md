@@ -11,30 +11,24 @@ I am a Kenyan-based Web Developer with expertise in Python,Django, Javascript, H
 ### [Django Blog]
 This is a blog with a Django backend.This data-driven website has a dynamic setup.This means that the user can create, display, update and search blog articles.The website is fitted for mobile, tablet and desktop (fully responsive)
 
-[![Django Blog]](https://github.com/davy254/django_blog_2)
+[Django Blog](https://github.com/davy254/django_blog_2)
 
-### [Project Name 2]
-[Another project description, highlighting its impact and the problems it solves.]
+### [Django based Movie Website]
+This is a Django web application that displays a list of latest movies using the TMDb API (The Movie Database). Users can view details of each movie.
 
-[![Project Name 2](link-to-project-image)](link-to-project)
+[Movie Project]]([link-to-project](https://github.com/davy254/movie_project))
 
 ## Skills
 
-- **Programming Languages:** [List of languages you are proficient in]
-- **Frameworks:** [Frameworks and libraries you've worked with]
-- **Tools:** [Development tools and environments you use]
+- **Programming Languages:** Python , JavaScript
+- **Frameworks:** Django
+- **Tools:** Vs Code, Pycharm
 
-## Achievements
-
-- [Any certifications or notable achievements you want to highlight]
 
 ## Let's Connect
 
 I'm always open to collaboration and new opportunities. Connect with me on social media or drop me an email:
-
-- [LinkedIn](link-to-linkedin)
-- [Twitter](link-to-twitter)
-- [Email](mailto:your.email@example.com)
+- [Email](mailto:davidmunyiri2@gmail.com)
 
 ## Thank You for Visiting!
 
