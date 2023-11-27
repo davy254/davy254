@@ -1,6 +1,6 @@
 # Welcome to David's GitHub!
 
-👋 Hello there! I'm avid, a passionate Web Developer enthusiast with a love for solving problems through innovative and efficient solutions. Explore my GitHub to discover a diverse range of projects that reflect my skills and interests.
+👋 Hello there! I'm David, a passionate Web Developer enthusiast with a love for solving problems through innovative and efficient solutions. Explore my GitHub to discover a diverse range of projects that reflect my skills and interests.
 
 ## About Me
 
